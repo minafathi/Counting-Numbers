@@ -1,0 +1,25 @@
+.App {
+      background-color: #D35400;
+      width: 60%;
+      min-height: 500px;
+      margin: 0 auto;
+      margin-top: 100px;
+      border-radius: 15px;
+}
+
+.first {
+      background-color: #229954;
+      width: 100%;
+      min-height: 150px;
+      margin: 0 auto;
+      border-radius: 15px;
+      text-align: center;
+      padding-top: 50px;
+      padding-bottom: 30px;
+}
+
+.cols {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+  }
